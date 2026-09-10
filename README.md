@@ -55,7 +55,7 @@ et à la décision.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" width="48" title="SciPy">
 </p>
 
-**Python · Pandas · NumPy · R · SciPy**
+**Python · Pandas · NumPy · R **
 
 ### 🤖 Machine Learning & IA
 
