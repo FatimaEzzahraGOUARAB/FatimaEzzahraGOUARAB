@@ -2,7 +2,9 @@
 
 ### Data Scientist · Statisticienne 
 
-<img src="images/github-profile.png" width="500">
+<p align="center">
+  <img src="images/github-profile.png" width="700">
+</p>
 
 Je suis Data Scientist – Statisticienne, avec un parcours orienté vers les
 statistiques appliquées, l'analyse de données et la modélisation.
