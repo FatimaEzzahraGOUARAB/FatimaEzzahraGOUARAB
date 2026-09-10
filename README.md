@@ -1,4 +1,4 @@
-# Bonjour, je suis Fatima Ezzahrae 👋
+# Hello! Je suis Fatima Ezzahrae 👋
 
 ### Data Scientist · Statisticienne 
 
