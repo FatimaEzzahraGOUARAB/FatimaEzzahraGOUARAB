@@ -24,7 +24,7 @@ et à la décision.
 
 ---
 
-## 🔎 Ce qui m'intéresse
+## Ce qui m'intéresse
 
 
 - **Analyse de données & statistiques appliquées**
@@ -37,7 +37,7 @@ et à la décision.
 
 ##  Outils & technologies
 
-### 🗄️ Bases de données
+###  Bases de données
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="SQL / MySQL">
@@ -84,7 +84,7 @@ et à la décision.
 
 ---
 
-## 🧩 Ma façon de travailler avec les données
+##  Ma façon de travailler avec les données
 
 **Comprendre → Explorer → Analyser → Interpréter → Communiquer**
 
