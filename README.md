@@ -19,7 +19,7 @@ les données, choisir les méthodes adaptées et transformer les résultats en
 une analyse claire et interprétable.
 
 J'aime cette démarche qui consiste à utiliser la donnée pour mieux comprendre
-une problématique réelle et produire des résultats utiles à la réflexion
+une problématique et produire des résultats utiles à la réflexion
 et à la décision.
 
 <br clear="right"/>
